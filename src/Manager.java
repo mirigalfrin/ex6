@@ -3,4 +3,5 @@
  */
 public class Manager {
     xf;khmf;k
+    MIRIPUSH
 }
